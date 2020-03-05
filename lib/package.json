@@ -2,10 +2,10 @@
   "name": "lib",
   "version": "1.0.0",
   "description": "API built out using api.itbook.store",
-  "main": "./lib/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node lib/index.js"
   },
   "author": "Ryan Brown",
   "license": "ISC",
