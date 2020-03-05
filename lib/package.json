@@ -4,7 +4,8 @@
   "description": "API built out using api.itbook.store",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Ryan Brown",
   "license": "ISC",
