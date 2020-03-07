@@ -1445,7 +1445,7 @@
     "longDescription": "Object Technology Centers (OTC) are technology transfer catalysts for the rapid development and deployment of object-oriented infrastructure. Object Technology Centers of Excellence provides guidance to those charged with managing the shift to object technology. It is the only book on the market aimed not at the project level but at the corporate level, with a focus on the infrastructures necessary for a successful transition.    This book presents case histories of early adopters of OT, which can help you understand the steps your company must take-and paths it should avoid. Object Technology Centers of Excellence is recommended reading in any organization planning or transitioning to OT, not just involved with formal OTCs. The book includes practical advice for managers, members of technical staffs, and consultants.    The case histories involve some heavy hitters:    IBM  Wiltel  The Travelers  Bell Northern Research  Also, summaries are presented for Andersen Consulting, Northern Telecom, Prudential Insurance Company, Ascom Nexion, and several others.",
     "status": "PUBLISH",
     "authors": ["Timothy D. Korson", "Vijay K. Vaishnavi"],
-    "categories": ["Object-Technology Programming", ""]
+    "categories": ["Object-Technology Programming"]
   },
   {
     "title": "Test Driven",
@@ -1661,7 +1661,7 @@
     "longDescription": "The WebWork framework implements a simple command/ business-logic and MVC design. It provides out-of-the-box functionality developers need to build well-designed applications that are modular and reusable. Written by its two primary developers, WebWork in Action is the first book to focus entirely on WebWork. Like a true \"In Action\" book, it is both a tutorial on WebWork and a sourcebook for its use in demanding, real-world applications.    Starting with \"Hello World\" the Webwork way, the book immerses the reader in practical, how-to material. You will soon know how to configure WebWork and gradually and incrementally master the robust and powerful uses of the framework. WebWork in Action uses the same basic, continuing example used in Manning's Hibernate in Action to show how to integrate WebWork with the popular Hibernate persistence framework.",
     "status": "PUBLISH",
     "authors": ["Patrick Lightbody", "Jason Carreira"],
-    "categories": ["internet"]
+    "categories": ["Internet"]
   },
   {
     "title": "MacRuby in Action",
@@ -3247,7 +3247,7 @@
     "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/garcia3.jpg",
     "status": "PUBLISH",
     "authors": ["Jesus Garcia", "Grgur Grisogono", "", "Jacob K. Andresen"],
-    "categories": []
+    "categories": ["JavaScript"]
   },
   {
     "title": "Android in Action, Third Edition",
