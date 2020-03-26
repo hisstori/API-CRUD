@@ -18,6 +18,11 @@ Node.js
 
 ### Installing
 
+Clone this down to your local machine and open the project folder. Once inde the project folder install the related packages with...
+```
+npm install
+```
+
 Navigate into your cloned directory and start your localhost by issuing the following in your CLI...
 ```
 node lib/db/seed.js
