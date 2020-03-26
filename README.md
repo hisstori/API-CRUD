@@ -67,6 +67,12 @@ use books-api //will switch to books-api database
 * [NodeJs](https://nodejs.org/en/) - JavaScript runtime used.
 * [Heroku](https://www.heroku.com/) - Hosted site for deployment.
 
+### Packages Used
+
+* [body-parser](https://www.npmjs.com/package/body-parser) - Node.js body parsing middleware.
+* [cors](https://www.npmjs.com/package/cors) - CORS is a node.js package for providing a Connect/Express    middleware that can be used to enable CORS with various options.
+* [node-fetch](https://www.npmjs.com/package/node-fetch) - A light-weight module that brings window.fetch to Node.js
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
