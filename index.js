@@ -1,7 +1,7 @@
 // Imports required files and dependencies.
 const express = require("express");
 const parser = require("body-parser");
-const book = require("./models/Books");
+const book = require("./lib/models/Books");
 const cors = require("cors");
 const app = express();
 
