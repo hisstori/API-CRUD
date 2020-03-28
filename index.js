@@ -16,7 +16,7 @@ app.get("/", function(req, res) {
 });
 // Full book listing of data.
 app.get("/books", function(req, res) {
-  book.find({categories: { $in: [req.body.categories]}}).then(books => {
+  book.find({}).then(books => {
     res.json(books);
   });
 });
