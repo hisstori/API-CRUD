@@ -60,7 +60,7 @@ app.delete("/books/remove/:id", function(req, res) {
 // Allows user to add a book to the database.
 app.post("/books/new", function(req, res) {
   book.create(req.body).then(books => {
-    res.json(books);
+    res.send(req.body);
     // res.send(books);
   });
 });
