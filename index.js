@@ -59,11 +59,9 @@ app.delete("/books/remove/:id", function(req, res) {
 });
 // Allows user to add a book to the database.
 app.post("/books/new", function(req, res) {
-  book.create(req.body).then(books => {
-    res.send(req.body);
-    // res.send(books);
+  console.log(req.body);
+  res.ssend(req.body);
   });
-});
 //
 app.put("/books/update/:id", function(req, res) {
   book.findByIdAndUpdate(req.params.id, req.body).then(books => {
